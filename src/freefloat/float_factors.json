@@ -1,0 +1,13 @@
+{
+  "_note": "ASSUMPTIONS, not data from companiesmarketcap.com (which has no float data). Fraction of shares freely tradable. Verify against MSCI/FTSE/Bloomberg before relying on them. Companies not listed default to 1.0 and are flagged in the output.",
+  "AAPL": 1.0,
+  "NVDA": 1.0,
+  "MSFT": 1.0,
+  "AMZN": 1.0,
+  "GOOGL": 0.9,
+  "META": 0.85,
+  "AVGO": 1.0,
+  "TSLA": 0.8,
+  "TSM": 1.0,
+  "2222.SR": 0.18
+}

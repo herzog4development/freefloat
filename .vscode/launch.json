@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "freefloat (top 3)",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "freefloat.cli",
+      "args": [],
+      "console": "integratedTerminal"
+    }
+  ]
+}
